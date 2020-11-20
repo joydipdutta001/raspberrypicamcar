@@ -12,7 +12,7 @@
 </div>
 <div style=" height:400px; width:300px; float:right;">
 <center>
-<h1><span style="color:#5C5C5C;">Circuit</span><span style="color:#139442"> Digest</span></h1>
+<h1><span style="color:#5C5C5C;">Cybo</span><span style="color:#139442"> tians</span></h1>
 <h2>Surveillance Robot</h2><br><br>
 <a href="#" id="up" style="font-size:30px;text-decoration:none;">  &#x1F881;&#x1F881;<br>Forward</a><br><br></center>
 <a href="#" id="left" style="font-size:30px;text-decoration:none;"> &#x1F880;&#x1F880;Left</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
